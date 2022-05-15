@@ -1,0 +1,399 @@
+durham co covid-19 case count update jun 30 10 
+yesterday report durham co include 128 new case 0 death past 2 week average 72 new case per day additional context prior 2-week period state-level positive rate 7.5 past two week 7.7 take wider view past 2 month state-wide positive rate 7.3 keep current rate growth 10 jul 15 would expect see 913 new case since today 65 per day decrease 7 per day compare current period 
+seem bad improve right 
+rate thing get well get slightly bad 
+extremely helpful valuable also tell yesterday versus today comparison seem positive macro sense yesterday somewhere 800s yesterday today likely somewhere 8-9 increase case may narrow draw conclusion may ignore positive total case still 6/29-6/30 seem like bad 24 hour increase surge case last 2-3 week may mask situation easy see decline surge total case still high could read thing wrong think recently 
+test correspond durham county resident test perform durham curious data would skew duke hospital 
+yeah would expect volatility though week ahead 
+get bad slow rate 
+rather rate thing get less bad gotten slightly bad 
+yes total new case report yesterday 128 high number see quite would caution put much stock single day change whether focused 2-week rolling average change day day simply reflect much randomness term case test report 2-week average smooths factor continue see sort high number reflect roll average soon enough think anyone need change behavior necessarily single day report 
+understand case count base person live case count would people confirm test durham county resident clear graphic case test mention statistic around positive rate nc overall 
+residency base test base 
+yup 4th come hopefully cop get trigger happy 
+clear rate change still negative thing get well less quickly yesterday 
+true 
+make lot sense thanks 
+appreciate work negative rate change still positive new daily diagnose case fair interpretation multiple thing get bad slow rate 
+rate change new case rate change yeah accelerate still go fast 
+indeed 
+durham co covid-19 case count update jul 1 21 
+yesterday report durham co include 71 new case 2 death past 2 week average 67 new case per day additional context prior 2-week period state-level positive rate 7.6 past two week 8.0 take wider view past 2 month state-wide positive rate 7.4 keep current rate growth 21 jul 16 would expect see 744 new case since today 53 per day decrease 14 per day compare current period 
+chart case longer period anywhere love see full path 
+thanks look like month away get near zero case even keep rate decline might interest add time zero case rate measure update even surely really linear likely 
+care watch news worry every day drive nut enjoy time family 
+hey durham techie experience matplotlib imagemagick reddit post apis try organize project replicate state level many state subreddits tackle together two issue try tackle 1 build graphic 2 post graphic interest either let know 
+information percent positive rate durham 
+data rate increase new case added rate increase total current case 
+see path since march county data site look like today 
+line chart show period-over-period rate change since durham co start report back march reflect everything 
+clear graph measure decline rate increase new case decline total number case 0 mean add equal number new case previous period indicate linear growth much well exponential growth long rate increase 100 little linear growth indicate movement back toward plateau good news theoretically trend drop increase continue probably need another month plateau see recovery new case make total case go hard predict rate decline might match rate increase see graphs previous time negative increase plateau make government think phase 1 2 would ok 
+get zero might never happen always case seasonal flu example use 100 case 2 week period benchmark look 20 week reach point course state whole seemingly high transmission rate probably floor new case show durham co floor idea 
+look like month away get near zero case goal think two week decline case durham statewide goal 10 percent drop daily new coronavirus case compare two week ago 5 percent drop case compare one week ago base data new york time guess refer goal few four daily new coronavirus case per 100,000 people per day base data new york time census bureau sure realistic give explosion case within people durham work essential job like construction nursing home durham initially drop ball one make stride improve 
+ncdhhs report durham county 11 look like subset test fluctuate lot 29th report u 250 test somewhere 12 15 positive 
+new case 
+super interest graph red line hard read though wonder use scale graph 
+see durham county overall comparison county show number case per 100,000 resident 
+think maybe direct anger disjoint messaging case infection rate benchmarks policy change whatnot someone ask curiosity long would take line give slope reach zero read kind hostile 
+goal keep move stay lock longer 
+really wish would display actual figure chart somewhat useless 
+scale infuriate lack scale whatever go 
+read kind hostile mean hostile know make various covid case story come durham like article post two day ago unc doctor weigh covid-19 case surge among young durham n.c wncn last month rise number young people test positive covid-19 north carolina mention story young people fact disproportionately essential worker infect dr david wohl professor medicine division infectious disease university north carolina chapel hill say transmission increase business reopen young people take right safety precaution let guard wohl say lot young people congregate indoors outside indoors without mask ask trouble people impact virus durham treat invisible get upset 
+whatever law gon na smart considerate thing less live like next year get use adapt miserable callously make thing dangerous everyone else 
+might narrative month ago see anything within past day say still case durham specifically increase outreach past month progress point unless data take doc word least growth fact drive certain demographic act carelessly anymore case country 
+lower anti-latino dog whistle pitch see 
+please let know venmo pay bill thanks 
+least growth fact drive certain demographic act carelessly anymore case country covid case growth might young people party beach bar wherever imo lot pundit intellectually dishonest rise case seem blame bar hopper beach goer let look covid hotspot county nc last week data collect new york time put sampson county list 100 county across u.s high number recent coronavirus case per resident mcclatchy news report state top agriculture county rank second hog production home country large pork processing plant wednesday n report covid-19 case rate 166.8 per 10,000 people county report 1,060 case state health official six people die indy week good article cover lot young people like 18-50 depend age range define young work meat processing plant without context might think bunch party careless young people get everyone sick sampson county extend rest state people get sick durham young careless get sick workplace go neighboring county essential worker get sick workplace like wake county see news release bottom regard late nursing home outbreak 
+adapt 
+durham co covid-19 case count update jul 2 3 
+want remind folk u currently one bad country world covid-19 thing go get bad get good ease mask wear social distancing 
+look well durham people loosen nc set another record high 
+yesterday report durham co include 101 new case 0 death past 2 week average 74 new case per day additional context prior 2-week period state-level positive rate 7.3 past two week 8.0 take wider view past 2 month state-wide positive rate 7.3 keep current rate growth 3 jul 17 would expect see 1,015 new case since today 72 per day decrease 2 per day compare current period 
+aside case count record possibly disconcert positive rate nc overall past two week 8 high see far 
+nc high number hospitalization today mean high absolute number sick patient county town state border highly permeable far end especially people lighten measure know work 
+test north carlina covid-19 daily new positive 
+big thing would offer feedback clearly label ax roll average also put date although trend key element 
+bad graph 
+north carlina huh 
+thought would trial run try build automate system similar u/zcapozzi post idea graph imagemagick want see could get end end system work x200b thanks let try r/bullcity check source code 
+pretty crap peptobismol great color 
+trial run framework building post every state subreddit aggregate data x200b unfortunately city/county data thought would post get feedback design work 
+durham co covid-19 case count update jul 3 1 
+understand data update cdc.gov page show almost 4k total case durham county 63 death total total since begin see update show 1000 new case every two week roughly mis read seem correlate cdc think misunderstand data 
+yesterday report durham co include 44 new case 1 death past 2 week average 73 new case per day additional context prior 2-week period state-level positive rate 7.5 past two week 8.1 take wider view past 2 month state-wide positive rate 7.4 keep current rate growth 1 jul 18 would expect see 1,023 new case since today 73 per day decrease 0 per day compare current period 
+happy 4th kair 
+none data accurate trust cdc admit would classify people whatever category want come new corona case also number bad consider patient die covid share fake news active part fearmongering go right shame 
+read correctly want check raw daily number post durham public health dept say 1k every two week add 4k case last month consistently high number new case right many consistently since march would way 4k case cumulatively miss point happy explain 
+bite care virus real care infect others 
+day matter 
+hilarious thanks laugh 
+link awesome see graphic show number new case count compare two week prior new case count link provide go race age occupation etc helpful 
+assume something updated cdc mortality rate show u somewhere 0.12-0.26 range overall figure still confirm accurate par respiratory disease definitely still care extra concern at-risk family member little suggest u generally right thing response disease point feel like scumbag want go shoot firework buddy year keep reasonable distance careful 
+probably reference user name often idea 
+care virus anymore live tire hearing stats 
+appreciate response doubt commenter view read nuanced lol 
+force read stats care enough search comment 
+kair give away hahaha 
+could say one red flag negative 8 karma hour long account another 
+durham co covid-19 case count update jul 4 17 
+yesterday report durham co include 49 new case 1 death past 2 week average 66 new case per day additional context prior 2-week period state-level positive rate 7.4 past two week 8.0 take wider view past 2 month state-wide positive rate 7.4 keep current rate growth 17 jul 19 would expect see 771 new case since today 55 per day decrease 11 per day compare current period 
+seem like there probably 60 chance get covid 002 percent die ftom young healthy 
+really mislead data try mean trend last two week clear reduction case please viligant smart wear mask socially distance go restaurant wash hand 
+great news trend hop hold thank continue report daily 
+go restaurant really mislead mislead try say restaurant covid risk factor durham worker cramp kitchen much risk customer especially eat outside maybe take look dph weekly data reflection report week june 29th june far great number case know employment information occur among people unemployed people work construction people work janitorial service restaurant really risk factor suggest durham public health would alert u 
+sure thing interest see effect whatever may holiday weekend start filter result 
+hopefully everyone safe 
+seem like far holiday big impact durham protest unless misread thing definitely interest see parallel memorial day 
+assumption multiple way interpret data come week difficult see clear signal 
+take 2 week see effect july 4th 
+check weekly data durham data hub seem pretty clearly neither memorial day protest affect case much durham ongoing outbreak june construction industry source large number case health department amaze job target outreach bring number 
+usually case feel epidemiologist public health official try grapple 
+think holiday make new case report last couple day little suspect well statewide around 7000 test last two day see picture video michigan last couple day fully expect see spike positive test 10 day hospital utilization still upswing spike testing 
+say people prediction would interest hear think rate change july 14 range b think occur holiday weekend get u point 
+sure without look past rate change say rate change would maybe 5 durham general mind well follow distance like base concern people go beach etc saw picture 9am yesterday carolina beach pack definitely socially distanced section sand fair amount people follow suit find hard believe jump 
+durham co covid-19 case count update jul 5 19 
+yesterday report durham co include 56 new case 0 death past 2 week average 65 new case per day additional context prior 2-week period state-level positive rate 7.6 past two week 8.0 take wider view past 2 month state-wide positive rate 7.4 keep current rate growth 19 jul 20 would expect see 747 new case since today 53 per day decrease 12 per day compare current period 
+believe decrease due durham mask order good job durham 
+let work together get trend even great job durham would love see data contract tracer 
+image gel graph site 
+grateful put day crunch number thank 
+durham mask order say help durham mask order since mid april case go since 
+yeah heard much anymore look like june spike go anticipate spike 4th ability track meaningful way 
+image rate increase show growth rate case relative last two week percentage example 10 new case every day last two week today 10 new case today rate would 0 change 10,000 new case per day past two week 10,000 new case today percentage depend number 10 new case every day last two week today 5 new case today rate would 50 graph post show raw number average raw number 
+close linkage 7-day average line use 2-week average instead 7-day average could imagine graphic show negative rate change roll average line would slop downward exactly since 7 v 14 day get idea 
+anticipate spike 4th ability track meaningful way anticipate spike 4th july outdoor holiday year see picture see news people outdoors beach park bbq mention see spike locally due memorial day activity mostly outdoors case go due factor holiday activity 
+shall see news blame spike memorial day protest riot something matter want try say u shall see 4th 
+please help get phd need research participant dissertation study ncsu due covid-19 halt in-person data collection digital communication 
+summary bore look something quarantine participate research study digital communication help ncsu grad student detail hi everyone hope stay safe sane quarantine covid-19 meant halt data collection dissertation research compare different communication medium e.g computer v vr term communication social presence feeling connection alter vr computer condition completely online need participant hour spare would greatly appreciate help full list eligibility requirement study entails please see recruitment flyer link spark interest would like sign study link scheduler survey safe everybody thanks much already sign note couple people ask 20/20 corrected natural vision requirement go ahead answer question basically participate wear glass contact ask wear study vision correct totally 20/20 pretty close still see everything pretty well fine 
+phd 
+human factor apply cognition 
+durham co covid-19 case count update jul 6 14 
+yesterday report durham co include 63 new case 0 death past 2 week average 66 new case per day additional context prior 2-week period state-level positive rate 7.5 past two week 8.1 take wider view past 2 month state-wide positive rate 7.5 keep current rate growth 14 jul 21 would expect see 797 new case since today 56 per day decrease 9 per day compare current period 
+anyone curious ajc good dashboard go georgia open nc reference 
+thanks really like 14 day case move average try follow death anything trend look good virus keep circulate generally learn live big part figure best care protocols etc reduce overall harm wo see normal vaccine even 
+try follow death anything trend look good yeah look confirmed death day death georgia see death trend think new wait two week wait four week death since lag indicator even take account like case start go month ago death still go see something similar play north carolina good hospitalization still go 7 today yesterday state 10.49 million people note question data people go back hospital routine procedure test arrive folk test positive hospital covid unclear extent include hospitalization number short need make sure measure people hospitalize covid covid unclear extent explain increase 
+death tend 4-6 week behind whereas case diagnose much short 4-14 day snapshot telling death look month today nearly enough time new surge register death count 
+doubt get answer covid v covid question covid patient drive continued increase eventually see level number patient go back routine procedure level 
+death look month today nearly enough time new surge register death count case start go around end may deaths trend since like 5/30 1200 case see one covid death 7/6 maybe huge spike next week eating crow 
+hospital approach limit though want say orange county icu bed 94 capacity something lot room growth 
+sure aware age demographic infection change lead low case fatality rate specifically young people make large part new infection mortality rate significantly low mean old people get infected lessen least level number new infection likely start see old people infect even still low proportion total infection happen death rate likely creep back 
+give overall much young population would expect huge spike would curious death rate change also refer national surge case nc spike give national scope relatively level still gon na need wait time fully expect drive fatality percentage overall still gon na pretty month 
+line get covid-19 test walgreens guess horton 7/7/2020 9:30am 
+line morning see car 40 second interested get tested need pay need referral supply insurance info provide license contact info send result reserve slot walk-in line car felt safe whole time get car line around 8am test 12:50pm definitely long wait administer test show swab nostril make roll window take mask administer test tell result 4 5 hour 
+good lord test anyone want test need reason protest travel etc symptom etc 
+go three week ago one else 
+curious know covid 
+cool thanks post another line people appointment 
+say nostril mean go several inch deep would doubt accuracy test someone correct wrong 99.9 sure accurate test nasopharyngeal oropharyngeal swab go way throat edit research cdc list nasal swab option curious accuracy kind test 
+hope ok 
+think basically anyone get test cv walgreens many employer require employee get test do come back office work 
+highly doubt significant number people get test kick hear test quite unpleasant obviously time consume come would great assume people get test concerned might protect community country well six month four long line see 
+wonder line people reserve spot quicker 
+actually line get government track chip 
+yes two separate line 
+yes get park lot think everyone wait line back onto road however sure plan streamline 
+also wonder accuracy work healthcare lab hospital reject many other-than-covid sample one reason another also covid test april thing deep painful seriously doubt result would accurate self administer little nose tickle 
+medical professional ca comment accuracy experience rather unpleasant swab go quite far nose leave linger agitate feeling lasted drive home empirically certainly felt deep enough 
+thank 
+curious think 
+cv test pretty non-intrusive compare test use series swab regular size one brain tickler 
+know someone recently get tested know negative visit relative 
+get result back expect 
+cool story 
+faster expect actually receive result 3 hour 
+also get result little less 4 hour 
+durham co covid-19 case count update jul 7 11 
+yesterday report durham co include 35 new case 0 death past 2 week average 69 new case per day additional context prior 2-week period state-level positive rate 7.5 past two week 8.4 take wider view past 2 month state-wide positive rate 7.6 keep current rate growth 11 jul 22 would expect see 861 new case since today 61 per day decrease 7 per day compare current period 
+durham co covid-19 case count update jul 8 11 
+seem like start hold pretty consistently negative obviously lot play still nice thing see alternative go u 
+yesterday report durham co include 70 new case 0 death past 2 week average 64 new case per day additional context prior 2-week period state-level positive rate 7.9 past two week 8.2 take wider view past 2 month state-wide positive rate 7.5 keep current rate growth 11 jul 23 would expect see 799 new case since today 57 per day decrease 6 per day compare current period 
+miss update hope well 
+hey post one day ok 
+good post arbitrary metric daily basis obviously much useful information single day case count use move average help smooth data identify trend however post time average statistic daily basis day-to-day change noise begin end time windows least informative view 7-day moving average data tell simple story case surge mid may early june stabilize decline little since 
+yeah give way nc whole move encourage see number go even slightly suspect state-wide number mean floor low could realistically go durham hopefully trend keep 
+thought provide shorter timeframe chart well see recent trend seem scale thrown large increase make difficult see recent variance near 0 thanks work 
+begin worry hope everything okay miss daily metric 
+agree cdc great breakdown one illuminate clarify anything 
+yeah trade-off harder see day day variance nice able see full picture since start pandemic gut keep day day variance rate less important slope line think still easy see current dimension good suggestion though 
+durham co covid-19 case count update jul 12 3 
+hi back thanks note concern take kid long weekend boone nc no-contact house rental bring food see anyone weekend think put system place could publish graphic remotely work back continue publish graphic yesterday report durham co include 72 new case 2 death past 2 week average 68 new case per day additional context prior 2-week period state-level positive rate 7.6 past two week 8.6 take wider view past 2 month state-wide positive rate 7.7 keep current rate growth 3 jul 27 would expect see 986 new case since today 70 per day increase 1 per day compare current period 
+oh break streak think 4th july gathering something know neighbor stupid shit big gathering unmasked people case neighborhood people still refuse mask people recover still mask either 
+2 bad would expect 4th july uptick take effect though short wear mask wash hand safe 
+july 6th weekly data reflection july far great number case know employment information occur among people unemployed people work hospital people work construction notice list restaurant brewery hair/nail salon retail store coffee shop etc say x z drive case count 
+wo lie see day hop back even consider checking refrain inquire free labor entitlement go continue appreciate post though 
+would possible uptick 4th manifest later even two week 
+almost keep closed/at minimal capacity helpful 
+couple thing report interest first time since summary prepare case among worker resident nurse care facility correctional facility thank goodness first week july include small number case among worker variety professional service setting lawyer dentist office public sector print graphic design administration put dental cleaning cancel march think let ride little longer 
+interest seem line say expand bit base information hope people think differently 
+haha wish could give one upvote appreciate 
+may update since last read topic median incubation time virus 5 day 95 people see symptom within 11 day 
+absolutely would start anticipate carry two week people go doctor day start get symptom symptom start 2 week infection assume 3 week hump 
+case among worker resident nurse care facility orange county get cluster last week long term care facility unc football team though overall orange county well result surround county lower positive test result 
+look like mask and/or social distancing work various place open phase 2 wish county get employment data case like durham get good picture go hope people think differently afraid go outside outdoor din bathroom go kill recently durham amended safer home order allow 25 people outside 
+sure imagine lag notice symptom symptom serious enough go seek help get whatever test backlog may exist report state 
+want source/more info american college cardiology 
+even go doctor right away test backlog 5-7 day right may depend get test would surprised people like hospital worker get priority get result sooner 
+yes suspect increase 4th would really show next 5 day 
+fyi whole food broad street confirms covid-19 outbreak among employee 
+wow little information c mon whole food release number 
+certain point go happen u shop happen whole food chapel hill use go since near gym shame hear many people test positive matter time 
+counter point comment every time employee mask see pull nose seem act pretty responsibly tend load 2 time month suck hear top shit get pay already noticed several patron ignore one way aisle sign use mask properly however 
+particular whole food cramp nearly impossible run directly aisle edit word 
+know opinion everyone agree place open actually enforce mask social distancing also employee leave work could encounter somewhere else bring back happened multiple time durham top fact virus mutate multiple time 
+see several employee wear mask wear mask incorrectly whole food harris teeter area _do get it_ 
+assume people work produce pick package sell food infected edit say 30 year restaurant food industry worker low pay sick time health insurance frequently fire ridicule call 
+outbreak happen one chapel hill back early april 
+ugh get whole food deliver location frequently make wonder stop awhile 
+employee without mask walk within 1 foot ask need help go back since gotten feel take seriously unfortunately 
+shop pretty much solely ht mlk southsquare ca remember see employee wear mask last several month rare even see customer wear 
+see video post several place information otherwise even social medium chatter least second source 
+go happen inevitably happen every single open business 
+sure people surprise frontline retail high risk job especially number asshats refuse social distance wear mask honestly surprised case grocery store 
+know someone work bad 
+would nice know timing happen yesterday 
+also cool people order grocery delivery whole food 
+almost f afraid soil one jeff bezos good brand suffer consequence 
+feel like 2 would easily say 
+happen ch hill wf 
+certain point novel coronavirus question 
+agree make anxious shop last night think back personally see employee mindful distance everyone wear mask correctly surprise see comment guess lucky far 
+report place sit health department within hour reply want info yesterday ask give write statement seem durham hd play game tell send someone sit 
+love idea put pressure business enforce prevention measure without endanger worker job 
+yes lowe weekend employee cough without mask say something person check star like uh okay problem comment know every cough covid pandemic work public space common 
+right cramp small wf ever see 
+common sense no-brainer opinion baffle anyone complete moron would challenge current half-assed effort prolong damage instead contain unbelievable 
+speak employee experience outside directly view 2 3 visit location actually seem enact lot social distancing measure earlier broadly grocery store make even concern imo 
+last week also notice several nose mask really hop folk positive 
+good news mostly eat frozen crap unfortunately trade covid health issue 
+delivery bad wipe food little disinfectant worried wash hand person-to-person contact really get ta worry hope cause get delivery 
+shop ht hillsborough count one hand amount unmask shopper last two month 
+ht mlk target pretty good last couple month target little hit miss seem thing pretty well 
+check periodically throughout day notice odd 
+easy open school see big deal right poor people die 
+detail 
+one employee call work let u know public health call multiple time last 2 week people covid19 come store 
+move new apt kitchen isnt currently functional ive get prepared meal couple time week pick yesterday 
+call outbreak 2-3 week ca tell many caught late 
+nursing home well accord n.c department health human service define outbreak two people resident employee test positive virus 
+heard ch case week ago 
+march apparently 
+lol country hundred thousand infection like u hundred thousand death inevitable country run incompetent clown 
+true 
+yeah couple day ago employee seem everything right even ask customer stand 6 foot apart cashier line 
+really good know thx head 
+woman food lion today pay 1 bill keep lick finger count lady work cash register count twice check stuff without sanitize hand tell sanitize hand clorox wipe stuff get car 
+small one state small/crowded get rid u line outside even count number anymore 
+anybody remember even big store bike store locate far right side point right 
+weird reason polarize topic 
+well know infected employee actually get expose could well whole food roommate whatever hour maybe socially distant 
+unfortunately statistically speak one likely 
+far know proof surface contraction to-go food acceptable far 
+unfortunately saw 6 7 past saturday shopper chldren infant employee mask thought ht go hand free mask unmasked shopper guess go well 
+article good job could post hour ago think 
+check ht fantastic prepared food bbq pork cheddar burrito bomb plus much good sushi wf 
+thank biden2020 
+comment may seem intentionally hyperbolic cynical intent record epidemiologist virologist eradicate covid-19 possible think communicable disease successfully eradicate smallpox covid-19 easily u year decades change good therapeutic vaccine simply data understand risk think hiv famously know virus cause aid still around hiv retroviral drug severe 80 novel coronavirus cause disease covid-19 like virus ca really kill per se technically alive mutate time already many mutation likely result result virus different least worrying general population likely someone actual expert field would like correct please understand subject definitely interested learning 
+work guy lick finger every time turn page communal log page also pull mask sneeze least two three time shift infuriating room huge also travel sc every week know take precaution work 
+probably want buy stuff die worry keep customer next year need profit 
+dunno go regularly certainly 
+remember wellspring grocery ninth st million year ago 
+american exceptionalism/individualism manifest core part culture lot people literally kneejerk unthinking reaction anything tell probably would even mind wear mask something expert encourage local official even require 
+pandemic know treat yet wear mask social distance much go figured work virus political issue virus 
+accurate anymore cdc study publish recently tl dr asymptotic carrier use elevator immediately quarantine meet neighbor etc common point contact elevator look like 70 people infected single elevator ride edit clarity read study encourage know one person probably get surface elevator spread much rapidly via aerosol/droplet/exchange bodily fluid mean theoretically mean surface hang covid already know show wildly effective spread fact demonstrate opposite anything least one person get infected surface transmission people infect person pass people forth lead 70 total bacon say 70 people basically virus specific genomic pattern kind like virus fingerprint show originate one person person use elevator believe infect least one person building say 70 _definitely_ catch typical transmission via droplets/aerosol say 70 people origin one person even spread via way close excellent demonstration read case re-reading study actually beneficial _seems_ dangerous sensational reality less surface hold covid much less easy catch like person person contact aerosol 
+thanks see yet 
+great article thanks post 
+thanks hit sushi far check others 
+sure likely wo eradicate virus wo get either like get sars mers hiv polio flu rabies ebola yellow fever hepatitis measles mumps rubella etc dumb pervasive idea may well nothing get question spread disinformation 
+polio 
+jesus pull mask sneeze miss entire point like wear condom arm tell bos dangerous moron 
+probably even alive time 
+work wear mask leave house unless necessity food work see work country completely political high office country say hoax disappear magically literally every person ounce grey matter disagree people brain wash purposely spread virus think threat someone know dy blame person previously hold high office person run current person hold office notice call person charge leader well look situation 
+figure work virus yes stay home work political issue huge group idiot almost completely aligned political right decide possible need haircut 
+political issue make one 
+prove surface transmission air entrap elevator 
+good case patient a0 start outbreak even could air surface transmission good discussion regard surface transmission generally 
+thank share terrify 
+air enclose space way different surface contact 
+yeah wo help well-liked mask rule hat seniority generally good job cringe every time hear sneeze 
+fukken youngster lol 
+think commenter probably meant cure yet true also seem say political issue interpretation 
+100 right crucial everyone wear mask stay home much possible practice social distancing well wash hand frequently use hand sanitizer touch face away home around people 
+think elevator fart linger elevator covid 
+comment talk copy pasta also want mention _many_ thread site discuss believe another commenter link read plan point anyways copypasta research turn thing mostly include source point precise study decide give re-read first read best glad accord study least one person infect via surface transmission therefore believe a0 asymptomatic carrier 7,8 b1.1 infect contact surface elevator build live 9 specific genomic pattern like virus fingerprint covid person identify 70 people mention study mean scientist think least one person get surface contact elevator like say quote include study however also state multiple patient transmit via mean interact people mean pass others patient a0 close contact elevator infect 70 people _at least_ one potentially person get pass theoretically prove surface transmission possible however also strongly show _much much_ easier catch aerosol droplet exchange bodily fluid 
+really good question know answer research see find 
+really make much difference 
+read study see much likely pass aerosol sorry scare possible surface 70 people _all_ get surface contact updated comment well reflect actual content study 
+good news stay home wo see elevator long time wife worry catch covid walk stair behind covid fart anyone get pissed game gassy get front person way bed fair game minor revenge always dish later point 
+thanks wfb think possible much less likely risky general appreciate research understand likely trump mine follow osterholm work discussion covid since early march time cross check research trust source hand wash good respiratory illness still clean grocery do pickups four month high risk family member although concerned surface transmission still take step mitigate risk family 
+report back find anything guess aerosol transmission surface 
+yeah try determine surface transmission thing 
+appreciate reality scary right 
+agree seem possible 
+concur exposure person building 
+research turn thing mostly include source point precise study decide give re-read first read best glad accord study least one person infect via surface transmission therefore believe a0 asymptomatic carrier 7,8 b1.1 infect contact surface elevator build live 9 specific genomic pattern like virus fingerprint covid person identify 70 people mention study mean scientist think least one person get surface contact elevator like say quote include study however also state multiple patient transmit via mean interact people mean pass others patient a0 close contact elevator infect 70 people _at least_ one potentially person get pass theoretically prove surface transmission possible however also strongly show _much much_ easier catch aerosol droplet exchange bodily fluid 
+fair enough seem like tendency minimize risk involve various scenario split hair detail like possible become infected elevator think focus use preventive measure know beneficial well err side caution many people use argument covid-19 spread defend refusal follow proper preventive measure honestly believe question like feed mentality 
+conclude one case surface transmission think study show linger air quite minute seem like likely scenario 
+scar shadow protective figure transmission actually occur put energy effective way stop elevator case guess aerosolize transmission diligent mask use would help vs try sanitize surface 
+yeah definitely disagree surface transmission paper say take wild mean wild guess would say could time expire ride whether individual wear mask glove etc really go much detail paper unfortunately anyone study hard say 
+likely airborne transmission give late data indicate surface transmission much less risk airborne direct contact much matter scar shadow acknowledge fact epidemic still early stage really enough comprehensive historical data conclusively pinpoint exact mechanism virus could transmit elevator think first comment might word way suggest flippant intention work cdc national aid hotline 30 year ago although coronavirus different many way hiv remember talk countless caller constantly ask risk would various hypothetical scenario even though hiv become pretty widespread time work hotline counselor would discourage caller try ass risk manner think easy forget age instant information thing answer yet okay think would irresponsible anyone get elevator put hand interior right even though know surface transmission relatively safe mean scar simply use hand sanitizer soon get elevator press button dozen people also touch minute ago thing applies precaution airborne transmission like mask distance risk downvoted stand earlier comment say base everything know far importantly know really useful even possible know exactly elevator transmission occur know happen elevator take common sense precaution edit clarity 
+durham co covid-19 case count update jul 13 12 
+damnit wrong direction guess see 4th july mean people fact large party follow protocol place much party take place indoors least period time can't transmit outdoors cluster big sandbar july 4th gathering northern michigan lot boat people party shallow water indoor access enough people exposure time deaths sure either give previous spike long drags patient could still hangover 
+something keep eye talked number death durham co low throughout pandemic focused case case lead hospitalization lead death often lag month focus death take focus away prevent case bad lack deaths lead complacency cause death later still think focus case right want share trend durham co death number death see month far apr 21 may 27 jun 12 jul pace 27 since good nursing home front would curious anyone see explanation uptick july x200b normal report yesterday report durham co include 91 new case 2 death past 2 week average 71 new case per day additional context prior 2-week period state-level positive rate 7.7 past two week 8.6 take wider view past 2 month state-wide positive rate 7.8 keep current rate growth 12 jul 28 would expect see 1,117 new case since today 79 per day increase 8 per day compare current period 
+information turnaround time affect number know wait go 
+graph first-derivative daily new case count op present zero value tool present time course infection locally well look new infection death versus time copy paste official county site someone multiple risk factor death data mean lot ymmv post graph immediately 
+would july 4th weekend something 
+come july 4th bump well 
+0.3 durham county population 
+ca transmit outdoors cluster big sandbar july 4th gathering northern michigan know enough case imagine people gather indoors gather lake lake central michigan meet people indoors go water also test many require employment like saw look percent positive county see durham positive test rate keep hop daily like july 12th 5 also go way 
+literally bullshit data derivative case count day 0 since mid june 30 day completely flat word mention several time author almost like really care want post bullshit data without scientific public health background 
+couple guess deaths 1 could noise two death report july 1 report last day june sure see trend 2 even though apparently well nursing home front death july far could infections home june due lag infection death reporting think county provide stats death community live situation like state unfortunately 
+daughter get test take u 7 day get result also heard less two day wait recently think come get test pediatrician office process labcorp 
+thanks share always good multiple perspective important certainly mean minimize death data stay safe 
+possible thing likely happen 4th gathering either way none point overall significantly drop caseload go relatively flat good thing could worse see good argument complacent especially state demonstrated re-opening particular way change situation ground rather quickly 
+photo lake party basically people pack together likely drink speak loudly virus go spread outdoors would happen 
+look forward analysis available data 
+data show total case count show new case per 2 week i.e case time year since take mr benson 3rd grade calculus class pretty sure case time i.e raw number graph velocity interested derivative graph look acceleration yeah maybe acceleration 0 still grow 500 new case per week want say graph completely flat recognize flip side mean nothing improve enough control spread 
+flat since mid june 12 since two week ago something wrong reading see data bullshit narrow snapshot time one advocate one say authoritative summation base daily life still completely flat really want completely flat fall case grateful florida thing relatively manageable place mean thing ca better 
+fixate case count alone nationally locally bad idea anyways even though do keep eye wakemed spokeswoman kristin kelly say hospital well prepared treat patient adequate ppe supply bed plan place need surge term care space equipment flow say e-mail wral point time le 40 percent covid-19 patient need icu care think initially go somewhat surge similar saw new york experience long-term increase workload say unc health dr abhi mehrotra 
+especially lots place world holiday pas yet actually make good progress contain virus 
+could kindly leave professional many issue data interpretation methodology bad science bad science paint false picture 
+hospital capacity relevant still want get thing idea long manage hospital capacity whole way marker success ridiculous late data suggest herd immunity gon na happen lot people never get hospitalize struggle month personally know people sick week month never hospitalize take risk people concerned whether bed need 
+population government gave/gives shit fellow citizen wear mask quarantine month straight grocery store pharmacy open instead everyone try claim essential worker demand pedicure cough service people 
+op make acceleration plot say completely flat true flat acceleration good thing pandemic think acceleration best choice visualization think actually downplay situation op plot state county-published data data show barely hold steady need go unless good source data far know state data best available county get data state good visualization might want sit one run around say bad graph make true 
+provide data alternative plus sort attitude make people loathe professional point often ignore think ca draw line attitude jackass mask home depot argue mistaken may know shit anyone doubtful seem eager demonstrate ca communicate effectively entails clarify message also humility useless bad science 
+another reason people talk hospital capacity specifically hospitalization due covid-19 easy measure accurately raw number case since disease mutate rapidly portion people severe enough case hospitalize go stay relatively constant number people newly hospitalize double good sign total number case approximately double well second number something necessarily test capacity determine otherwise 
+yeah inaction frankly lead expectation gon na need give fun holiday time shut whole world try stop people die somehow kind inconvenience much u 
+issue say assumes profile infect consistent well vulnerable population become protected time case count could increase fast hospitalization rate agree number case great metric since many go untested always include state-level positive rate 
+good point level every metric flaw percent positive test help indicate test enough also hard directly convert total number estimate case think agreement important look multiple different thing get best possible picture though 
+100 
+durham co covid-19 case count update jul 14 1 
+yesterday report durham co include 74 new case 0 death past 2 week average 67 new case per day additional context prior 2-week period state-level positive rate 7.7 past two week 8.7 take wider view past 2 month state-wide positive rate 7.8 keep current rate growth 1 jul 29 would expect see 952 new case since today 68 per day increase 0 per day compare current period 
+see negative change 
+durham co covid-19 case count update jul 15 1 
+yesterday report durham co include 67 new case 0 death past 2 week average 67 new case per day additional context prior 2-week period state-level positive rate 7.9 past two week 8.6 take wider view past 2 month state-wide positive rate 7.8 keep current rate growth 1 jul 30 would expect see 935 new case since today 66 per day decrease 0 per day compare current period 
+thank post really help 
+owe beer keg hmu still alive 
+wonder happen medical case like regular flu seem like magically disappear 
+change data reporting long cdc go affect ability provide update 
+haha dark envision bull mccabe party friend reddit bullcity sub covid thread guy 
+know wear mask stay away people wash hand lot also work flu 
+ca say 100 certain affect number ask question answer get probably wo big deal provider collect information send state health dept rather cdc ncdhhs original source information durham co health department report unless provider stop send data ncdhhs start send federal hhs affect 
+durham co covid-19 case count update jul 16 5 
+durham number seem relatively low state high know county worst wake mecklenburg coast 
+yesterday report durham co include 92 new case 0 death past 2 week average 66 new case per day additional context prior 2-week period state-level positive rate 8.0 past two week 8.6 take wider view past 2 month state-wide positive rate 7.9 keep current rate growth 5 jul 31 would expect see 879 new case since today 62 per day decrease 3 per day compare current period 
+roughly linear like state 
+website get 
+durham one bad per caput tie mecklenburg 
+get hedge word relatively would say durham county number low increase need get lot 
+number actually great relative population 152 confirmed case per 100k people whereas wake 88 per 100k 
+state dashboard county map case also toggle map case per 10,000 resident quick way get idea distribution case state 
+good question specific number county although sure could find something state dashboard say 2 way measure outbreak first rate infection per capita second rate infection increase decrease good one measure poor 
+look yesterday report durham co number past many day think likely start see number relatively soon seem like quite day recently case higher 2 week average course depend case go forward well pessimistic keep change prior period number negative near-term 
+yep current estimate every case lead 1.01 new case almost perfectly flat 
+durham number data calc state positive rate 
+yeah need interpret lot hedge relatively completely agree though 
+really interesting wake v durham 
+thank 
+make sense keep see nc list national hotspot data keep show number decrease right kind apple v orange comparison 
+fyi dashboard ton issue county/zip filter chart/table zip change case per 10,000 others wo seem map horribly wrong see list durham county franklin county davidson county durham county wilson county july 17 2020 county sure jack 3 found funny/relevant 
+possible guarantee one hand really low reporting date 4th set move prior period reduce prior period total increase rate change flip side prior period contains heavy reporting day 100 case decrease rate change past week see 5 day 75 case 2 day 90 answer worry come whether see 75 case day less frequently go forward x200b past two week jul 16 92 jul 15 67 jul 14 74 jul 13 91 jul 12 72 jul 11 74 jul 10 62 jul 09 82 jul 08 70 jul 07 35 jul 06 63 jul 05 56 jul 04 49 jul 03 44 x200b prior two week jul 02 101 jul 01 71 jun 30 128 jun 29 54 jun 28 44 jun 27 51 jun 26 54 jun 25 77 jun 24 66 jun 23 74 jun 22 54 jun 21 64 jun 20 88 jun 19 59 
+north carolina impressive model consistency rt 
+yeah definition hot spot really subjective 
+show percentage change increase case mean 0 time still bad day see hundred new case would like see 0 change base low bi-weekly increase another point view 0 mean growth linear exponential bad time pandemic subtext constant growth number case growth flat level increase acceleration zero 
+love see one place thank 
+durham co covid-19 case count update jul 17 2 
+yesterday report durham co include 64 new case 0 death past 2 week average 67 new case per day additional context prior 2-week period state-level positive rate 8.1 past two week 8.5 take wider view past 2 month state-wide positive rate 7.9 keep current rate growth 2 aug 1 would expect see 932 new case since today 66 per day decrease 1 per day compare current period 
+ty 
+durham covid-19 case context 
+would suggest make color total case number death distinct moment panic lol 
+deeply appreciated u/zcapozzi post help show two week comparison covid-19 case realize walk around errands seem though general level concern around city extreme state-wide coronavirus case number increase two thousand day full picture data take durham county public though number new folk contract virus per day stabilize overall number still go dramatically number continue grow death continue grow need alarmist remember broad picture order keep community safe thank u/zcapozzi frontline nurse doctor take care u hopefully honor work stay inside little bit finally get back life normal note literally screenshot dchp data 
+somewhat related note health department put daily email various audience covid info link want sign general public one 
+someone test positive determine remove person case current case number put like time limit assume recover get data know several people test positive recover never get test confirm negative develop bad enough symptom hospitalize self quarantine time go curious element data 
+red line useless make whole thing rather useless use scale right 
+might want tweet dchp steal 
+yeah joke think navy blue black would good color two thing 
+great thank 
+place report current case like say really tough determine someone recover durham state estimate people recover virus element graph report main durham county health department health hub page county report weekly pdf file release nc dhhs monday generally assume case 2 week old dead recover particularly accurate symptom persist long time people good enough epidemiological purpose people generally longer infectious even symptom persist long 
+sorry didnt see comment 
+curious eventually become monitored right kind silly actively monitor case clearly still rise evidenced 7 day roll average 14 day update get never track current case wo able see downward trend easily maybe get plateau growth instead linear growth see start monitor 
+problem 
+durham co covid-19 case count update jul 18 4 
+yesterday report durham co include 67 new case 0 death past 2 week average 69 new case per day additional context prior 2-week period state-level positive rate 8.0 past two week 8.7 take wider view past 2 month state-wide positive rate 8.0 keep current rate growth 4 aug 2 would expect see 1,008 new case since today 72 per day increase 2 per day compare current period 
+think helpful reddit agree number report likely relevant request could clarify title case count increase case count may make seem like 969 count case july 18th also visually could use different color top bar visualize whether number good bad even subjective standpoint specifically would argue constant increase 1000 case biweekly period catastrophic pretty bad give yellow top bar green bar would large decrease additional case count small one number low absolute value minor comment opinion would help people may otherwise read 4.1 think low well 
+go profile scroll post one coolest informative thing able thank 
+thanks suggestion update graphic specify count new case tomorrow post title reflect well small change specific problem coloration suggestion interest think hit central challenge covid message one think could powerful tool use correctly general hesitant use graphic signal much term good bad prefer keep straight fact simple fact everyone different slide scale whether locality well poorly many believe long hospital overwhelm good shape believe everything get case zero general think people focus economy v bring case zero really thing neither use graphic signal good bad necessarily mean pick one definition hesitant think comments/debate right place happen think color idea interest people think good/bad clue behavior shift everyone spectrum cautious aggressive face pandemic cautious leave home others mean wear mask public percentage change case really use person shift behavior scale accordingly grant use approach like mean settle somewhere get case zero let hospital get overload probably closer latter would also huge benefit make less debate collective solution anyway thanks suggestion think even label change reduce risk misinterpretation 
+completely agree point one comment issue color definitely subjective say argue green color associate positive good optimistic idea say even keep color time color pick may irrelevant guess point relate nudge theory thing ultimately impact little overall message find issue statistical/scientific communication interest specifically consider constraint face mainly require small image size low complexity message 
+durham co covid-19 case count update jul 19 6 
+yesterday report durham co include 62 new case 1 death past 2 week average 69 new case per day additional context prior 2-week period state-level positive rate 8.0 past two week 8.9 take wider view past 2 month state-wide positive rate 8.1 keep current rate growth 6 aug 3 would expect see 1,029 new case since today 73 per day increase 3 per day compare current period 
+weekly data reflection week july 13 2020 july 13th infographic 
+understand still use wrong scale red line use scale green line useless must miss something seem like graph 101 
+durham co covid-19 case count update jul 20 5 
+yesterday report durham co include 63 new case 0 death past 2 week average 69 new case per day additional context prior 2-week period state-level positive rate 8.1 past two week 8.4 take wider view past 2 month state-wide positive rate 8.0 keep current rate growth 5 aug 4 would expect see 1,019 new case since today 72 per day increase 3 per day compare current period 
+durham co covid-19 case count update jul 21 15 
+thank post daily come rely information 
+information duke health system anyone interested 
+yesterday report durham co include 89 new case 0 death past 2 week average 73 new case per day additional context prior 2-week period state-level positive rate 8.3 past two week 8.4 take wider view past 2 month state-wide positive rate 7.9 keep current rate growth 15 aug 5 would expect see 1,185 new case since today 84 per day increase 11 per day compare current period 
+thanks folk gather partied july 4th nice thing 
+fuck definitely 
+glad helpful 
+thanks share really encouraging see positive rate steady maybe slightly decrease since early june consistent world variation see durham new case count related test volume less change disease spread 
+party drive case growth would group durham roughly equally affected nothing really change since may start test lot capture go basically people ca work home family live get covid way anybody else work home 
+yeah man math rough infection date since seem like huge deviation previous downward trend bam woulda thunk 
+nothing besides 2 highly social holiday move phase 2 despite merting metric outline set general public say fuck common sense edit plenty demonstration nothing change 
+party clearly drive number think cut alcohol sale early area 
+think cut alcohol sale early area classic something government response kind thing effective drug free zone sign put school place covid always spread due people essential job live condition show durham public health data people make whatever assertion want base data 
+actually bar particularly note study show particle emission go lot volume loudness speech hopefully essential worker wear mask bar goer one guy article trace 100 infection one night bar hopping 
+think cut alcohol sale good idea see restaurant pack bar 12am friday night agree spread much choice expose general public work close quarter others outside household 
+start sham people yell please 
+maybe case wear mask unlike bar people wear mask talk loudly spread breathing hour end 
+bar nyc staff dress like monk go around shush people get loud rather nice chat low normal volume hear fine calm quiet 
+durham co covid-19 case count update jul 22 13 
+yesterday report durham co include 54 new case 1 death past 2 week average 72 new case per day additional context prior 2-week period state-level positive rate 8.2 past two week 8.3 take wider view past 2 month state-wide positive rate 7.9 keep current rate growth 13 aug 6 would expect see 1,144 new case since today 81 per day increase 9 per day compare current period 
+dont think people realize record shouldnt broken 
+shit think last day blip could july 4th weekend almost 3 week 
+many factor play impossible ascribe meaningful share change anything particular unfortunately lame answer know 
+also open state protest 
+yeah true worry people go party 4th get sick embolden take risk 
+think exposure early july 5-14 day develop symptom get test time get result may 7-9 business day would line week 
+good point hear early large percentage sure people symptom day 5 guess mean symptom severe get tested day plus lag result may still hope 
+look durham resident provide insight coronavirus affect 
